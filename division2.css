@@ -1,0 +1,48 @@
+#d1
+{
+    background-color: burlywood;
+    height: 250px;
+    width: auto;
+}
+
+#d2
+{
+    background-color: yellowgreen;
+    height: 300px;
+    width: 400px;
+    float: left;
+}
+
+#d3
+{
+    background-color: violet;
+    height: 300px;
+    width: 610px;
+    float: left;
+}
+
+#d4
+{
+    background-color: turquoise;
+    height: 300px;
+    width: 391px;
+    float: right;
+}
+
+#d5
+{
+    background-color: tomato;
+    height: 395px;
+    width: auto;
+    padding-bottom: 400px;
+}
+
+#d6
+{
+    background-image: url(nagpur.jpg);
+    height: 400px;
+    width: 400px;
+    float: right;
+    background-repeat: no-repeat;
+    margin: 20px;
+}

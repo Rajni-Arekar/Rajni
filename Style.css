@@ -1,0 +1,15 @@
+#r1
+{
+    background-color: aquamarine;
+    height: 500px;
+    width: auto;
+}
+
+#r2
+{
+    background-image: url(download.jpg);
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+    float: right;
+}

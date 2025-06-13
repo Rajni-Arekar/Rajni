@@ -1,0 +1,46 @@
+#p1
+{
+    background-color: aqua;
+    height: 250px;
+    width: 500px;
+    float: left;
+    margin: 20px;
+
+}
+
+#p2
+{
+    background-color: aquamarine;
+    height: 250px;
+    width: 700px;
+    float: right;
+    margin: 20px;
+
+}
+
+#p3
+{
+    background-color: bisque;
+    height: 500px;
+    width: 350px;
+    float: left;
+    margin: 40px;
+}
+
+#p4
+{
+    background-color: blue;
+    height: 500px;
+    width: 350px;
+    float: left;
+    margin: 40px;
+}
+
+#p5
+{
+    background-color: brown;
+    height: 500px;
+    width: 350px;
+    float: right;
+    margin: 40px;
+}
