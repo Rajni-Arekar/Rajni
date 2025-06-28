@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script lang="JavaScript">
+        var a=parseInt(prompt("<br> Enter first number:"));
+        var b=parseInt(prompt("<br>Enter second number:"));
+        var c;
+        var op=(prompt("+,-,*,/,%"));
+        switch(op)
+        {
+            case '+': c=a+b;
+            document.write("Addition="+c);
+            break; 
+
+            case '-': c=a-b;
+            document.write("Substraction="+c);
+            break;
+
+            case '*':c=a*b;
+            document.write("Multiplication="+c);
+            break;
+
+            case '/': c=a/b;
+            document.write("Division="+c);
+            break;
+
+            case '%': c=a%b;
+            document.write("Reminder="+c);
+        }
+    </script>
+</body>
+</html>
